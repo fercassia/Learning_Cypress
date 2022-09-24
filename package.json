@@ -1,0 +1,14 @@
+{
+  "name": "cypress_alura",
+  "version": "1.0.0",
+  "description": "First Project of Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Fernanda Cassia",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
